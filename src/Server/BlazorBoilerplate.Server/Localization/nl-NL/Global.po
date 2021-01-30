@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlazorBoilerPlate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-30 18:20+0100\n"
+"Last-Translator: Carry2Web <info@carry2web.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "CreateApiResourcePermission"
+msgstr "Verleen rechten op een nieuwe API bron"
+
+msgid "CreateClientPermission"
+msgstr "Maak een nieuwe klant"
+
+msgid "CreateRolePermission"
+msgstr "Maak een nieuwe rol"
+
+msgid "CreateUserPermission"
+msgstr "Maak een nieuwe gebruiker"
+
+msgid "DeleteApiResourcePermission"
+msgstr "Verwijder rechten op API bron"
+
+msgid "DeleteClientPermission"
+msgstr "Verwijder klantrechten"
+
+msgid "DeleteRolePermission"
+msgstr "Verwijder rolrechten"
+
+msgid "DeleteUserPermission"
+msgstr "Verwijder gebruikersrechten"
+
+msgid "ReadApiResourcePermission"
+msgstr "Bekijk rechten op API bron"
+
+msgid "ReadClientPermission"
+msgstr "Bekijk klant rechten"
+
+msgid "ReadRolePermission"
+msgstr "Bekijk rol data (rechten, etc.\")"
+
+msgid "ReadUserPermission"
+msgstr "Lees gebruikers data (Namen, Email, Telefoon Nummers, etc.)"
+
+msgid "UpdateApiResourcePermission"
+msgstr "Bewerk bestaande API bron rechten"
+
+msgid "UpdateClientPermission"
+msgstr "Bewerk bestaande klanten"
+
+msgid "UpdateRolePermission"
+msgstr "Bewerk bestaande rol rechten"
+
+msgid "UpdateUserPermission"
+msgstr "Bewerk bestaande gebruikers"
+
+msgid "CreateIdentityResourcePermission"
+msgstr "Maak een nieuwe identiteit bron"
+
+msgid "ReadIdentityResourcePermission"
+msgstr "Bekijk identiteit bron rechten"
+
+msgid "UpdateIdentityResourcePermission"
+msgstr "Bewerk bestaande identiteit bron"
+
+msgid "DeleteIdentityResourcePermission"
+msgstr "Verwijder een identiteit bron"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Roles"
+msgstr "Rollen"
+
+msgid "ApiResources"
+msgstr "OpenID API bron"
+
+msgid "IdentityResources"
+msgstr "OpenID Identiteitsbron"
+
+msgid "OpenIdClients"
+msgstr "OpenID Klanten"
+
+msgid "Dashboard"
+msgstr "Overzicht"
+
+msgid "Loading"
+msgstr "Bezig met laden…"
+
+msgid "New Client"
+msgstr "Nieuwe klant"
+
+msgid "New User"
+msgstr "Nieuwe gebruiker"
+
+msgid "New Role"
+msgstr "Nieuwe rol"
+
+msgid "New API Resource"
+msgstr "Nieuwe API-bron"
+
+msgid "New Identity Resource"
+msgstr "Nieuwe identiteitsbron"
+
+msgid "{0} users fetched"
+msgstr "{0} gebruikers opgehaald"
+
+msgid "Operation Successful"
+msgstr "Bewerking geslaagd"
+
+msgid "Operation Failed"
+msgstr "Bewerking mislukt"
+
+msgid "{0} roles fetched"
+msgstr "{0} rollen opgehaald"
+
+msgid "{0} clients fetched"
+msgstr "{0} klanten opgehaald"
+
+msgid "{0} identity resources fetched"
+msgstr "{0} identiteitsbronnen opgehaald"
+
+msgid "{0} API resources fetched"
+msgstr "{0} API bronnen opgehaald"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Update"
+msgstr "Bijwerken"
+
+msgid "Edit {0}"
+msgstr "Bewerk {0}"
+
+msgid "Permissions list fetched"
+msgstr "Lijst met machtigingen opgehaald"
+
+msgid "Role {0} created"
+msgstr "Rol {0} gemaakt"
+
+msgid "Role {0} already exists"
+msgstr "Rol {0} bestaat al"
+
+msgid "The role {0} doesn't exist"
+msgstr "De rol {0} bestaat niet"
+
+msgid "Role {0} deleted"
+msgstr "Rol {0} verwijderd"
+
+msgid "RoleInUseWarning"
+msgstr "Deze rol {0} is nog in gebruik, je kan deze niet verwijderen"
+
+msgid "Client {0} created"
+msgstr "Klant {0} gemaakt"
+
+msgid "The client {0} doesn't exist"
+msgstr "De klant {0} bestaat niet"
+
+msgid "Client {0} updated"
+msgstr "Klant {0} bijgewerkt"
+
+msgid "Client {0} deleted"
+msgstr "Klant {0} verwijderd"
+
+msgid "Role {0} updated"
+msgstr "Rol {0} bijgewerkt"
+
+msgid "Identity Resource {0} created"
+msgstr "Identiteitbron {0} gemaakt"
+
+msgid "Identity Resource {0} updated"
+msgstr "Identiteitbron {0} bijgewerkt"
+
+msgid "Identity Resource {0} deleted"
+msgstr "Identity Resource {0} verwijderd"
+
+msgid "API Resource {0} created"
+msgstr "API-bron {0} gemaakt"
+
+msgid "API Resource {0} updated"
+msgstr "API-{0} bijgewerkt"
+
+msgid "API Resource {0} deleted"
+msgstr "API-bron {0} verwijderd"
+
+msgid "The API resource {0} doesn't exist"
+msgstr "De API-bron {0} bestaat niet"
+
+msgid "The Identity resource {0} doesn't exist"
+msgstr "De {0} identiteitsbron bestaat niet"
+
+msgid "UserName"
+msgstr "Gebruikersnaam"
+
+msgid "Login"
+msgstr "Inloggen"
+
+msgid "Sign in with"
+msgstr "Meld je aan met"
+
+msgid "Sign up"
+msgstr "Registreren"
+
+msgid "Keep me logged in"
+msgstr "Houd me ingelogd"
+
+msgid "Log in"
+msgstr "Inloggen"
+
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Submit"
+msgstr "Versturen"
+
+msgid "LoginFailed"
+msgstr "Inloggen mislukt"
+
+msgid "ResetPasswordFailed"
+msgstr "Resetten wachtwoord is mislukt"
+
+msgid "ForgotPasswordEmailSent"
+msgstr "Wachtwoord vergeten Email is verzonden"
+
+msgid "Confirm Email"
+msgstr "Bevestig je e-mailadres"
+
+msgid "Send Confirmation"
+msgstr "Bevestiging verzenden"
+
+msgid "EmailVerificationFailed"
+msgstr "E-mailverificatie Mislukt"
+
+msgid "EmailVerificationSuccessful"
+msgstr "Email Verificatie is gelukt"
+
+msgid "ResetPasswordSuccessful"
+msgstr "Reset van wachwoord is gelukt"
+
+msgid "Password Reset"
+msgstr "Wachtwoord opnieuw instellen"
+
+msgid "Password Confirmation"
+msgstr "Wachtwoordbevestiging"
+
+msgid "Reset Password"
+msgstr "Wachtwoord opnieuw instellen"
+
+msgid "UserCreationFailed"
+msgstr "Gebruiker aanmaken is mislukt"
+
+msgid "UserCreationSuccessful"
+msgstr "Gebruiker aanmaken is gelukt"
+
+msgid "Registration"
+msgstr "Registratie"
+
+msgid "PasswordConfirmationFailed"
+msgstr "Wachtwoord en  controle wachtwoord zijn niet identiek."
+
+msgid "ConfirmPassword"
+msgstr "Bevestiging wachtwoord"
+
+msgid "ErrorInvalidLength"
+msgstr "{0} moet tenminste {2} en maximaal {1} tekens lang zijn."
+
+msgid "SpacesNotPermitted"
+msgstr "Spaties zijn niet toegestaan"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "AlreadyRegistered"
+msgstr "Al geregistreerd"
+
+msgid "Register"
+msgstr "Registreer"
+
+msgid "InvalidData"
+msgstr "Ongeldige gegevens"
+
+msgid "The user {0} doesn't exist"
+msgstr "De gebruiker {0} bestaat niet"
+
+msgid "The user doesn't exist"
+msgstr "De gebruiker bestaat niet"
+
+msgid "User {0} created"
+msgstr "User {0} gemaakt"
+
+msgid "Confirm Delete"
+msgstr "Bevestig verwijdering"
+
+msgid "Logout"
+msgstr "Uitloggen"
+
+msgid "Tenants"
+msgstr "Huurders"
+
+msgid "Tenant"
+msgstr "Huurder"
+
+msgid "MultiTenancy"
+msgstr "Multi-tenancy"
+
+msgid "{0} tenants fetched"
+msgstr "{0} huurders opgehaald"
+
+msgid "Tenant {0} created"
+msgstr "Huurder {0} gemaakt"
+
+msgid "The tenant {0} doesn't exist"
+msgstr "De huurder {0} bestaat niet"
+
+msgid "Tenant {0} updated"
+msgstr "Huurder {0} bijgewerkt"
+
+msgid "Tenant {0} deleted"
+msgstr "Huurder {0} deleted"
+
+msgid "Role {0} cannot be deleted"
+msgstr "Rol {0} kan niet worden verwijderd"
+
+msgid "Tenant {0} cannot be deleted"
+msgstr "Huurder {0} kan niet worden verwijderd"
+
+msgid "Role {0} cannot be edited"
+msgstr "Rol {0} kan niet worden bewerkt"
+
+msgid "AuthenticationRequired"
+msgstr "Authenticatie is vereist"
+
+msgid "LoginRequired"
+msgstr "A.u.b. eerst inloggen"
+
+msgid "Operation not allowed"
+msgstr "Bewerking is niet toegestaan"
+
+msgid "NotAuthorizedTo"
+msgstr "Je hebt niet de rechten om deze bewerking uit te voeren."
+
+msgid "PleaseWait"
+msgstr "Even geduld a.u.b."
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "EmailSettings"
+msgstr "E-mailinstellingen"
+
+msgid "OutgoingEmail"
+msgstr "Uitgaande E-mail"
+
+msgid "IncomingEmail"
+msgstr "Inkomende E-mail"
+
+msgid "SmtpServer"
+msgstr "SMTP server"
+
+msgid "PopServer"
+msgstr "POP3 server"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Port"
+msgstr "Poort"
+
+msgid "ImapServer"
+msgstr "IMAP server"
+
+msgid "SenderEmail"
+msgstr "Afzender E-mail"
+
+msgid "SenderName"
+msgstr "Afzendernaam"
+
+msgid "MainSettings"
+msgstr "Hoofdinstellingen"
+
+msgid "AppAdminNavApiAuditLog"
+msgstr "Api Audit Log"
+
+msgid "AppAdminNavDBLoggingView"
+msgstr "DB Logging Viewer"
+
+msgid "AppAdminNavFrontEnd"
+msgstr "FrontEnd"
+
+msgid "AppAdminNavMonitoring"
+msgstr "Monitoring"
+
+msgid "AppHelpAndSupport"
+msgstr "Help & Support"
+
+msgid "AppHoverAdmin"
+msgstr "Administratie"
+
+msgid "AppHoverNavMinimize"
+msgstr "Minimize Navigation Bar"
+
+msgid "AppHoverNavToggle"
+msgstr "Toggle Navigation Bar"
+
+msgid "AppName"
+msgstr "Blazer Boilerplate"
+
+msgid "AppNavDashboard"
+msgstr "Overzicht"
+
+msgid "AppNavDragAndDrop"
+msgstr "Slepen en neerzetten"
+
+msgid "AppNavEmail"
+msgstr "Email"
+
+msgid "AppNavFeatures"
+msgstr "Functies"
+
+msgid "AppNavForum"
+msgstr "Forum"
+
+msgid "AppNavHome"
+msgstr "Homepage"
+
+msgid "AppNavReadEmail"
+msgstr "Lees Email"
+
+msgid "AppNavScreenshots"
+msgstr "Schermafdrukken"
+
+msgid "AppNavSendEmail"
+msgstr "Verstuur Email"
+
+msgid "AppNavSponsors"
+msgstr "Sponsors"
+
+msgid "AppShortName"
+msgstr "BlazorBP"
+
+msgid "BreadCrumbadmin"
+msgstr "Beheerder"
+
+msgid "BreadCrumbadminapiResources"
+msgstr "API Resources"
+
+msgid "BreadCrumbadminapilog"
+msgstr "API Audit Log"
+
+msgid "BreadCrumbadminclients"
+msgstr "Clients"
+
+msgid "BreadCrumbadmindblog"
+msgstr "Application Log"
+
+msgid "BreadCrumbadminidentityResources"
+msgstr "Identiteitbronnen"
+
+msgid "BreadCrumbadminmultitenancy"
+msgstr "Tenant Beheer"
+
+msgid "BreadCrumbadminroles"
+msgstr "Rollen Beheer"
+
+msgid "BreadCrumbadminsettings"
+msgstr "Instellingen"
+
+msgid "BreadCrumbadminsettingsemail"
+msgstr "Email Configuraties"
+
+msgid "BreadCrumbadminusers"
+msgstr "Gebruikers"
+
+msgid "BreadCrumbdashboard"
+msgstr "Overzicht"
+
+msgid "BreadCrumbdrag_and_drop"
+msgstr "Slepen en neerzetten"
+
+msgid "BreadCrumbemail"
+msgstr "Verstuur Email"
+
+msgid "BreadCrumbemail_view"
+msgstr "Lees Email"
+
+msgid "BreadCrumbforum"
+msgstr "Forum"
+
+msgid "BreadCrumbHome"
+msgstr "Home"
+
+msgid "BreadCrumbscreenshots"
+msgstr "Schermafdrukken"
+
+msgid "BreadCrumbsponsors"
+msgstr "Sponsors"
+
+msgid "BreadCrumbtodo_list"
+msgstr "Te Doen"
+
+msgid "TodoNav"
+msgstr "Te Doen Lijst"
+
+msgid "CurrentPassword"
+msgstr "Huidig wachtwoord"
+
+msgid "NewPassword"
+msgstr "Nieuw wachtwoord"
+
+msgid "Update Password"
+msgstr "Wachtwoord bijwerken"
+
+msgid "UpdatePasswordSuccessful"
+msgstr "Update Password Successful"
+
+msgid "UpdatePasswordFailed"
+msgstr "Update Password Failed"
+
+msgid "FirstName"
+msgstr "Voornaam"
+
+msgid "LastName"
+msgstr "Achternaam"
+
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+msgid "User Profile"
+msgstr "Gebruikersprofiel"
+
+msgid "RememberBrowser"
+msgstr "Remember browser"
+
+msgid "ForgotAuthenticator"
+msgstr "De authenticator vergeten?"
+
+msgid "RecoveryCode"
+msgstr "Herstelcode"
+
+msgid "LockedUser"
+msgstr "User is locked out"
+
+msgid "EmailNotConfirmed"
+msgstr "E-mail niet bevestigd"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "TwoFactorAuthentication"
+msgstr "Tweede Factor Authenticatie"
+
+msgid "BrowserRemembered"
+msgstr "Browser remembered"
+
+msgid "RecoveryCodesLeft"
+msgstr "Recovery codes left"
+
+msgid "AuthenticatorCode"
+msgstr "Authenticator code"
+
+msgid "VerificationCode"
+msgstr "Verificatiecode"
+
+msgid "VerificationCodeInvalid"
+msgstr "Verificatiecode is onjuist"
+
+msgid "ResetAuthenticator"
+msgstr "Reset Authenticator"
+
+msgid "EmailInvalid"
+msgstr "Veld {0} is geen geldig e-mail adres."
+
+msgid "FieldRequired"
+msgstr "Veld {0}  is verplicht."
+
+msgid "ConcurrencyFailure"
+msgstr "Te optimistische gelijktijdige update, object is niet gewijzigd."
+
+msgid "DefaultError"
+msgstr "Een onbekende fout is opgetreden."
+
+msgid "DuplicateEmail"
+msgstr "Email '{0}' bestaat al."
+
+msgid "DuplicateRoleName"
+msgstr "Rol '{0}' bestaat al."
+
+msgid "DuplicateUserName"
+msgstr "Gebruikersnaam '{0}' bestaat al."
+
+msgid "InvalidEmail"
+msgstr "Ongeldig e-mail"
+
+msgid "InvalidRoleName"
+msgstr "Rol naam '{0}' is ongeldig."
+
+msgid "InvalidToken"
+msgstr "Ongeldig token."
+
+msgid "InvalidUserName"
+msgstr "Gebruikersnaam '{0}' is ongeldig, mag alleen cijfers en letters bevatten."
+
+msgid "LoginAlreadyAssociated"
+msgstr "Er bestaat al een gebruiker met deze login naam."
+
+msgid "PasswordMismatch"
+msgstr "Wachtwoord onjuist."
+
+msgid "PasswordRequiresDigit"
+msgstr "Wachtwoorden moeten tenminste één cijfer bevatten ('0'-'9')."
+
+msgid "PasswordRequiresLower"
+msgstr "Wachtwoorden moeten tenminste één kleine letter bevatten ('a'-'z')."
+
+msgid "PasswordRequiresNonAlphanumeric"
+msgstr "Wachtwoorden moeten tenminste één speciaal teken bevatten"
+
+msgid "PasswordRequiresUpper"
+msgstr "Wachtwoorden moeten tenminste één hoofdletter bevatten ('A'-'Z')."
+
+msgid "PasswordTooShort"
+msgstr "Wachtwoorden moeten tenminste {0} tekens bevatten"
+
+msgid "UserAlreadyHasPassword"
+msgstr "Gebruiker heeft al een wachtwoord ingesteld."
+
+msgid "UserAlreadyInRole"
+msgstr "Gebruiker heeft al deze rol '{0}'."
+
+msgid "UserLockoutNotEnabled"
+msgstr "Lockout staat niet ingesteld voor deze gebruiker."
+
+msgid "UserNotInRole"
+msgstr "Gebruiker heeft niet de rol '{0}'."
+
+msgid "UnauthorizedAccess"
+msgstr "Ongeautoriseerde toegang"
+
+msgid "Permissions"
+msgstr "Rechten"
+
+msgid "Allow"
+msgstr "Toestaan"
+
+msgid "Are you sure you want to delete {0}?"
+msgstr "Weet u zeker dat u {0} wilt verwijderen?"
+
+msgid "Change password for {0}"
+msgstr "Wachtwoord voor {0} wijzigen"
+
+msgid "ItemsDeleted"
+msgstr "{0} verwijderde items"
+
+msgid "Translations"
+msgstr "Vertalingen"
+
+msgid "Culture"
+msgstr "Cultuur"
+
+msgid "NewTranslation"
+msgstr "Nieuwe vertaling"
+
+msgid "Translation"
+msgstr "Vertaling"
+
+msgid "Key"
+msgstr "Sleutel (key)"
+
+msgid "VerifyCode"
+msgstr "Code Controleren"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "ReloadTranslations"
+msgstr "Herladen Vertalingen"
+
+msgid "One item found"
+msgid_plural "{0} items found"
+msgstr[0] "Eén object gevonden"
+msgstr[1] "{0} items found"
+
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "Import PO file"
+msgstr "PO-bestand importeren"
+
+msgid "File not selected"
+msgstr "Bestand niet geselecteerd"
+
+msgid "File not valid"
+msgstr "Bestand niet geldig"
+
+msgid "File empty"
+msgstr "Bestand leeg"
+
+msgid "PO File without a valid language"
+msgstr "PO-bestand zonder geldige taal"
+
+msgid "Only PO files"
+msgstr "Alleen PO-bestanden"
+
+msgid "Plural"
+msgstr "Meervoud"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Count"
+msgstr "Aantal"
+
+msgid "Selector"
+msgstr "Selector"
+
+msgid "Localization"
+msgstr "Localization"
+
+msgid "Pluralization rules"
+msgstr "Pluralization rules"
